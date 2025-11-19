@@ -43,6 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+![alt text](<Screenshot 2025-11-19 111117.png>)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
